@@ -13,7 +13,7 @@ console.log(persone);
 let arr = ['orange.png','plum.jpg','apple.bmp'];
 console.log(arr[0]);
 
-//alert("hello world");
+alert("hello world");
 
 // let answer = confirm("Are you here?");
 // console.log(answer);
